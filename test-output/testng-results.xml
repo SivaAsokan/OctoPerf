@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34760" started-at="2021-01-11T15:44:18Z" finished-at="2021-01-11T15:44:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34760" started-at="2021-01-11T15:44:18Z" finished-at="2021-01-11T15:44:53Z">
+      <class name="org.Automated">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.Automated@42dafa95]" name="beforeClass" is-config="true" duration-ms="11303" started-at="2021-01-11T21:14:18Z" finished-at="2021-01-11T21:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.Automated@42dafa95]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-01-11T21:14:29Z" finished-at="2021-01-11T21:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="mainMethod1()[pri:0, instance:org.Automated@42dafa95]" name="mainMethod1" duration-ms="523" started-at="2021-01-11T21:14:29Z" finished-at="2021-01-11T21:14:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainMethod1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.Automated@42dafa95]" name="afterMethod" is-config="true" duration-ms="2670" started-at="2021-01-11T21:14:30Z" finished-at="2021-01-11T21:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.Automated@42dafa95]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-01-11T21:14:33Z" finished-at="2021-01-11T21:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="mainMethod2(java.lang.String, java.lang.String)[pri:0, instance:org.Automated@42dafa95]" name="mainMethod2" duration-ms="12352" started-at="2021-01-11T21:14:33Z" finished-at="2021-01-11T21:14:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shivaabe19@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[siva2118@#$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainMethod2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.Automated@42dafa95]" name="afterMethod" is-config="true" duration-ms="575" started-at="2021-01-11T21:14:45Z" finished-at="2021-01-11T21:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.Automated@42dafa95]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-01-11T21:14:46Z" finished-at="2021-01-11T21:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="mainMethod3(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.Automated@42dafa95]" name="mainMethod3" duration-ms="4968" started-at="2021-01-11T21:14:46Z" finished-at="2021-01-11T21:14:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[This is my project]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Script]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainMethod3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.Automated@42dafa95]" name="afterMethod" is-config="true" duration-ms="552" started-at="2021-01-11T21:14:50Z" finished-at="2021-01-11T21:14:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.Automated@42dafa95]" name="afterClass" is-config="true" duration-ms="1663" started-at="2021-01-11T21:14:51Z" finished-at="2021-01-11T21:14:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.Automated -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

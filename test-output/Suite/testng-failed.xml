@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <parameter name="password" value="siva2118@#$"/>
+    <parameter name="tagname" value="Script"/>
+    <parameter name="name" value="Hello"/>
+    <parameter name="description" value="This is my project"/>
+    <parameter name="email" value="shivaabe19@gmail.com"/>
+    <classes>
+      <class name="org.Automated">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="mainMethod3" invocation-numbers="0"/>
+          <include name="beforeClass"/>
+          <include name="mainMethod2" invocation-numbers="0"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- org.Automated -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
